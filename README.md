@@ -45,16 +45,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0993-cousins-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0993-cousins-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0993-cousins-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0993-cousins-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/1302-deepest-leaves-sum) |
 <!---LeetCode Topics End-->
