@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0993-cousins-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0993-cousins-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0993-cousins-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0993-cousins-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Linked List
 |  |
 | ------- |
