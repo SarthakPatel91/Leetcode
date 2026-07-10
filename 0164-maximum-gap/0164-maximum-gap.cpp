@@ -2,19 +2,29 @@ class Solution {
 public:
     int maximumGap(vector<int>& nums) {
         int n = nums.size();
-        if (n == 1)
+
+        if (n < 2)
             return 0;
-        sort(nums.begin(), nums.end());
 
-        int maxi = INT_MIN;
+        priority_queue<int> maxheap;
 
-        for (int i = 0; i < n - 1; i++) {
-            if (nums[i + 1] - nums[i] > maxi)
-                maxi = nums[i + 1] - nums[i];
+        for (int x : nums)
+            maxheap.push(x);
+
+        int prev = maxheap.top();
+        maxheap.pop();
+
+        int ans = 0;
+
+        while (!maxheap.empty()) {
+            int curr = maxheap.top();
+            maxheap.pop();
+
+            ans = max(ans, prev - curr);
+
+            prev = curr;
         }
-        if(maxi==INT_MIN)
-        return 0;
 
-        return maxi;
+        return ans;
     }
 };
