@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/SarthakPatel91/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0997-find-the-town-judge](https://github.com/SarthakPatel91/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1254-number-of-closed-islands](https://github.com/SarthakPatel91/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/SarthakPatel91/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SarthakPatel91/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1590-make-sum-divisible-by-p](https://github.com/SarthakPatel91/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SarthakPatel91/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/SarthakPatel91/Leetcode/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/SarthakPatel91/Leetcode/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/SarthakPatel91/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/SarthakPatel91/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Math
 |  |
 | ------- |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SarthakPatel91/Leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/SarthakPatel91/Leetcode/tree/master/0881-boats-to-save-people) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/SarthakPatel91/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
