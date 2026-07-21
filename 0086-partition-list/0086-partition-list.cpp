@@ -11,40 +11,28 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
+        ListNode smalldummy(0);
+        ListNode largedummy(0);
+
+        ListNode* small = &smalldummy;
+        ListNode* large = &largedummy;
+
         ListNode* curr = head;
 
-        vector<int> ans;
-
-        while (curr != NULL) {
+        while (curr) {
             if (curr->val < x) {
-                ans.push_back(curr->val);
+                small->next = curr;
+                small = small->next;
+            } else {
+                large->next = curr;
+                large = large->next;
             }
             curr = curr->next;
         }
 
-        curr = head;
+        large->next=NULL;
+        small->next=largedummy.next;
 
-        while (curr != NULL) {
-            if (curr->val >= x)
-                ans.push_back(curr->val);
-
-            curr = curr->next;
-        }
-        if (ans.empty())
-            return NULL;
-
-        ListNode* newnode = new ListNode(ans[0]);
-
-        ListNode* temp = newnode;
-
-        for (int i = 1; i < ans.size(); i++) {
-            ListNode* node = new ListNode(ans[i]);
-            newnode->next = node;
-            newnode = newnode->next;
-        }
-
-        // node->next=NULL;
-
-        return temp;
+        return smalldummy.next;
     }
 };
