@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/SarthakPatel91/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1590-make-sum-divisible-by-p](https://github.com/SarthakPatel91/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SarthakPatel91/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SarthakPatel91/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/SarthakPatel91/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SarthakPatel91/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/SarthakPatel91/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2460-apply-operations-to-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -220,4 +222,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/SarthakPatel91/Leetcode/tree/master/1260-shift-2d-grid) |
+| [2460-apply-operations-to-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
