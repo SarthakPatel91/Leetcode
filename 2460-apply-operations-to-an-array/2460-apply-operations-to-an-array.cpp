@@ -12,30 +12,16 @@ public:
             }
         }
 
-        // int i = 0;
-        // int j = n - 1;
+        int slow = 0;
 
-        // while (i < j) {
-        //     if (nums[i] == 0 && nums[j] != 0)
-        //         swap(nums[i], nums[j]);
+        for (int fast = 0; fast < nums.size(); fast++) {
 
-        //     else if (nums[i] != 0 || nums[j] == 0) {
-        //         i++, j--;
-        //     }
-        // }
-
-        // return nums;
-        int j = 0;
-
-        vector<int> ans(n, 0);
-        for (int i = 0; i < n; i++) {
-            if (nums[i] != 0) {
-                ans[j] = nums[i];
-                j++;
+            if (nums[fast] != 0) {
+                swap(nums[slow], nums[fast]);
+                slow++;
             }
         }
-       
 
-        return ans;
+        return nums;
     }
 };
