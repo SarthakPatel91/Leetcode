@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SarthakPatel91/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0143-reorder-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0143-reorder-list) |
 ## String Matching
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SarthakPatel91/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/SarthakPatel91/Leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0143-reorder-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SarthakPatel91/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SarthakPatel91/Leetcode/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -244,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/SarthakPatel91/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SarthakPatel91/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
