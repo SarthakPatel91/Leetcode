@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/SarthakPatel91/Leetcode/tree/master/0164-maximum-gap) |
 | [0209-minimum-size-subarray-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/SarthakPatel91/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/SarthakPatel91/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/SarthakPatel91/Leetcode/tree/master/0695-max-area-of-island) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SarthakPatel91/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/SarthakPatel91/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/SarthakPatel91/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SarthakPatel91/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Queue
