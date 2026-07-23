@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/SarthakPatel91/Leetcode/tree/master/0130-surrounded-regions) |
 | [0164-maximum-gap](https://github.com/SarthakPatel91/Leetcode/tree/master/0164-maximum-gap) |
 | [0209-minimum-size-subarray-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/SarthakPatel91/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/SarthakPatel91/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0997-find-the-town-judge](https://github.com/SarthakPatel91/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1590-make-sum-divisible-by-p](https://github.com/SarthakPatel91/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/SarthakPatel91/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/SarthakPatel91/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SarthakPatel91/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
