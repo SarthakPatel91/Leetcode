@@ -3,32 +3,23 @@ public:
     int minSubArrayLen(int target, vector<int>& nums) {
         int n = nums.size();
 
-        vector<int> prefix(n);
-        prefix[0] = nums[0];
+        int minsize = INT_MAX;
 
-        for (int i = 1; i < n; i++) {
-            prefix[i] = prefix[i - 1] + nums[i];
-        }
+        int i = 0;
+        long long sum = 0;
 
-        int ans = INT_MAX;
-
-        for (int i = 0; i < n; i++) {
-            int need;
-
-            if (i == 0)
-                need = target;
-
-            else
-                need = target + prefix[i - 1];
-
-            auto it = lower_bound(prefix.begin() + i, prefix.end(), need);
-            if (it != prefix.end()) {
-                ans = min(ans, (int)(it - prefix.begin()) - i + 1);
+        for (int j = 0; j < n; j++) {
+            sum = sum + nums[j];
+            while (sum >= target) {
+                minsize = min(minsize, (j - i + 1));
+                sum = sum - nums[i];
+                i++;
             }
         }
-        if (ans == INT_MAX)
-            return 0;
 
-        return ans;
+        if(minsize==INT_MAX)
+        minsize=0;
+        
+        return minsize;
     }
 };
