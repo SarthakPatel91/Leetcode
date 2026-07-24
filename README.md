@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/SarthakPatel91/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SarthakPatel91/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0881-boats-to-save-people](https://github.com/SarthakPatel91/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/SarthakPatel91/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/SarthakPatel91/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0997-find-the-town-judge](https://github.com/SarthakPatel91/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1089-duplicate-zeros](https://github.com/SarthakPatel91/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0904-fruit-into-baskets](https://github.com/SarthakPatel91/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/SarthakPatel91/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1590-make-sum-divisible-by-p](https://github.com/SarthakPatel91/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/SarthakPatel91/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/SarthakPatel91/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SarthakPatel91/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0904-fruit-into-baskets](https://github.com/SarthakPatel91/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SarthakPatel91/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SarthakPatel91/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Queue
