@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SarthakPatel91/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SarthakPatel91/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Heap (Priority Queue)
 |  |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/SarthakPatel91/Leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Recursion
 |  |
 | ------- |
@@ -289,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SarthakPatel91/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
