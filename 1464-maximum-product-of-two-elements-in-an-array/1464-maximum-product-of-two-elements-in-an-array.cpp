@@ -4,13 +4,15 @@ public:
         int firstmax = INT_MIN;
         int secondmax = INT_MIN;
 
-        int n = nums.size();
+        for (int i = 0; i < nums.size(); i++) {
+            if(nums[i]>firstmax){
+                secondmax=firstmax;
+                firstmax=nums[i];
+            }
+            else if(nums[i]>secondmax)
+            secondmax=nums[i];
+        }
 
-        sort(nums.begin(), nums.end());
-
-        firstmax = nums[n - 1] - 1;
-        secondmax = nums[n - 2] - 1;
-
-        return firstmax * secondmax;
+        return (firstmax-1)*(secondmax-1);
     }
 };
