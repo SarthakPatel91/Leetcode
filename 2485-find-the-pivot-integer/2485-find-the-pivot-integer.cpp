@@ -3,23 +3,15 @@ public:
     int pivotInteger(int n) {
         if (n == 1)
             return 1;
-        int totalsum = 0;
-
-        vector<int> nums(n + 1, 0);
-        for (int i = 0; i < n + 1; i++) {
-            nums[i] = i;
-            totalsum += i;
-        }
-
+        int totalsum = n * (n + 1) / 2;
         int leftsum = 0;
-        int rightsum = 0;
 
-        for (int i = 1; i < n + 1; i++) {
-            rightsum = totalsum - leftsum;
+        for (int i = 1; i < n; i++) {
+            int rightsum = totalsum - leftsum;
 
-            leftsum += nums[i];
+            leftsum += i;
 
-            if (leftsum == rightsum)
+            if (rightsum == leftsum)
                 return i;
         }
 
