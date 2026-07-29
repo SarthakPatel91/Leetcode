@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3862-find-the-smallest-balanced-index](https://github.com/SarthakPatel91/Leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/SarthakPatel91/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/SarthakPatel91/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3862-find-the-smallest-balanced-index](https://github.com/SarthakPatel91/Leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Binary Search
 |  |
 | ------- |
