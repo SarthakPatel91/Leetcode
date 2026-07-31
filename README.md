@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/SarthakPatel91/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SarthakPatel91/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/SarthakPatel91/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1590-make-sum-divisible-by-p](https://github.com/SarthakPatel91/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SarthakPatel91/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SarthakPatel91/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/SarthakPatel91/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/SarthakPatel91/Leetcode/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SarthakPatel91/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/SarthakPatel91/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1590-make-sum-divisible-by-p](https://github.com/SarthakPatel91/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SarthakPatel91/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2485-find-the-pivot-integer](https://github.com/SarthakPatel91/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/SarthakPatel91/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/SarthakPatel91/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SarthakPatel91/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/SarthakPatel91/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/SarthakPatel91/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/SarthakPatel91/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/SarthakPatel91/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/SarthakPatel91/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SarthakPatel91/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/SarthakPatel91/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SarthakPatel91/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/SarthakPatel91/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1288-remove-covered-intervals](https://github.com/SarthakPatel91/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/SarthakPatel91/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SarthakPatel91/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Graph Theory
