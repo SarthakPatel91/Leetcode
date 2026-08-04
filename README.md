@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SarthakPatel91/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/SarthakPatel91/Leetcode/tree/master/0016-3sum-closest) |
+| [0053-maximum-subarray](https://github.com/SarthakPatel91/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SarthakPatel91/Leetcode/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/SarthakPatel91/Leetcode/tree/master/0130-surrounded-regions) |
 | [0164-maximum-gap](https://github.com/SarthakPatel91/Leetcode/tree/master/0164-maximum-gap) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SarthakPatel91/Leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/SarthakPatel91/Leetcode/tree/master/0392-is-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Greedy
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SarthakPatel91/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
