@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SarthakPatel91/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/SarthakPatel91/Leetcode/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/SarthakPatel91/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SarthakPatel91/Leetcode/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/SarthakPatel91/Leetcode/tree/master/0130-surrounded-regions) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/SarthakPatel91/Leetcode/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/SarthakPatel91/Leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/SarthakPatel91/Leetcode/tree/master/0164-maximum-gap) |
@@ -360,5 +362,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0047-permutations-ii) |
 | [0131-palindrome-partitioning](https://github.com/SarthakPatel91/Leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
