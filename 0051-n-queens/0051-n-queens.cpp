@@ -1,20 +1,20 @@
 class Solution {
 public:
-    bool issafe(int row, int col, int n, vector<string>& ds) {
+    bool isSafe(int row, int col, int n, vector<string>& ds) {
 
-        // upper column
+        // Check upper column
         for (int i = 0; i < row; i++) {
             if (ds[i][col] == 'Q')
                 return false;
         }
 
-        // upper left diagonal
+        // Check upper-left diagonal
         for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
             if (ds[i][j] == 'Q')
                 return false;
         }
 
-        // upper right diagonal
+        // Check upper-right diagonal
         for (int i = row - 1, j = col + 1; i >= 0 && j < n; i--, j++) {
             if (ds[i][j] == 'Q')
                 return false;
@@ -23,25 +23,26 @@ public:
         return true;
     }
 
-    void solve(int i, int n, vector<vector<bool>>& vis,
-               vector<string>& ds, vector<vector<string>>& ans) {
+    void solve(int i, int j, int n, vector<string>& ds,
+               vector<vector<string>>& ans) {
 
         if (i == n) {
             ans.push_back(ds);
             return;
         }
 
-        for (int j = 0; j < n; j++) {
+        for (j = 0; j < n; j++) {
 
-            if (!vis[i][j] && issafe(i, j, n, ds)) {
+            if (isSafe(i, j, n, ds)) {
 
-                vis[i][j] = true;
+                // Place Queen
                 ds[i][j] = 'Q';
 
-                solve(i + 1, n, vis, ds, ans);
+                // Recur for next row
+                solve(i + 1, 0, n, ds, ans);
 
+                // Backtrack
                 ds[i][j] = '.';
-                vis[i][j] = false;
             }
         }
     }
@@ -50,9 +51,8 @@ public:
 
         vector<string> ds(n, string(n, '.'));
         vector<vector<string>> ans;
-        vector<vector<bool>> vis(n, vector<bool>(n, false));
 
-        solve(0, n, vis, ds, ans);
+        solve(0, 0, n, ds, ans);
 
         return ans;
     }
