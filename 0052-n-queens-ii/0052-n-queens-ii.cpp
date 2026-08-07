@@ -1,5 +1,6 @@
 class Solution {
 public:
+    int count = 0;
     bool isvalid(int row, int col, int n, vector<string>& board) {
         // upper columns
         for (int i = 0; i < row; i++) {
@@ -22,10 +23,9 @@ public:
         return true;
     }
 
-    void solve(int i, int j, int n, vector<string>& board,
-               vector<vector<string>>& ans) {
+    void solve(int i, int j, int n, vector<string>& board) {
         if (i == n) {
-            ans.push_back(board);
+            count = count + 1;
             return;
         }
 
@@ -33,7 +33,7 @@ public:
             if (isvalid(i, j, n, board)) {
                 // place queen
                 board[i][j] = 'Q';
-                solve(i + 1, j, n, board, ans);
+                solve(i + 1, j, n, board);
 
                 // backtrack
                 board[i][j] = '.';
@@ -42,10 +42,9 @@ public:
     }
     int totalNQueens(int n) {
         vector<string> board(n, string(n, '.'));
-        vector<vector<string>> ans;
 
-        solve(0, 0, n, board, ans);
+        solve(0, 0, n, board);
 
-        return ans.size();
+        return count;
     }
 };
