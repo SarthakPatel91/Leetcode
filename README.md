@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0143-reorder-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0148-sort-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SarthakPatel91/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SarthakPatel91/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## String Matching
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SarthakPatel91/Leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/SarthakPatel91/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SarthakPatel91/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SarthakPatel91/Leetcode/tree/master/0392-is-subsequence) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/SarthakPatel91/Leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/SarthakPatel91/Leetcode/tree/master/0164-maximum-gap) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SarthakPatel91/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SarthakPatel91/Leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0148-sort-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -404,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/SarthakPatel91/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
