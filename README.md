@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SarthakPatel91/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/SarthakPatel91/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/SarthakPatel91/Leetcode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/SarthakPatel91/Leetcode/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SarthakPatel91/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SarthakPatel91/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SarthakPatel91/Leetcode/tree/master/0392-is-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SarthakPatel91/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-stone-game](https://github.com/SarthakPatel91/Leetcode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/SarthakPatel91/Leetcode/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SarthakPatel91/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SarthakPatel91/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -422,12 +424,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SarthakPatel91/Leetcode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/SarthakPatel91/Leetcode/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SarthakPatel91/Leetcode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/SarthakPatel91/Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SarthakPatel91/Leetcode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/SarthakPatel91/Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SarthakPatel91/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SarthakPatel91/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
