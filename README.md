@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/SarthakPatel91/Leetcode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/SarthakPatel91/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/SarthakPatel91/Leetcode/tree/master/0164-maximum-gap) |
+| [0200-number-of-islands](https://github.com/SarthakPatel91/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/SarthakPatel91/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SarthakPatel91/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/SarthakPatel91/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/SarthakPatel91/Leetcode/tree/master/0200-number-of-islands) |
 | [0337-house-robber-iii](https://github.com/SarthakPatel91/Leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/SarthakPatel91/Leetcode/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SarthakPatel91/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/SarthakPatel91/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/SarthakPatel91/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/SarthakPatel91/Leetcode/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SarthakPatel91/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SarthakPatel91/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SarthakPatel91/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/SarthakPatel91/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/SarthakPatel91/Leetcode/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/SarthakPatel91/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SarthakPatel91/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/SarthakPatel91/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/SarthakPatel91/Leetcode/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/SarthakPatel91/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/SarthakPatel91/Leetcode/tree/master/1260-shift-2d-grid) |
