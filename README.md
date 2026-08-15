@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/SarthakPatel91/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/SarthakPatel91/Leetcode/tree/master/1462-course-schedule-iv) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/SarthakPatel91/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/SarthakPatel91/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/SarthakPatel91/Leetcode/tree/master/1462-course-schedule-iv) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/SarthakPatel91/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/SarthakPatel91/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/SarthakPatel91/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/SarthakPatel91/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1462-course-schedule-iv](https://github.com/SarthakPatel91/Leetcode/tree/master/1462-course-schedule-iv) |
 | [1514-path-with-maximum-probability](https://github.com/SarthakPatel91/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/SarthakPatel91/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [3310-remove-methods-from-project](https://github.com/SarthakPatel91/Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -486,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1514-path-with-maximum-probability](https://github.com/SarthakPatel91/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/SarthakPatel91/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+## Topological Sort
+|  |
+| ------- |
+| [1462-course-schedule-iv](https://github.com/SarthakPatel91/Leetcode/tree/master/1462-course-schedule-iv) |
 <!---LeetCode Topics End-->
