@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/SarthakPatel91/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1075-project-employees-i](https://github.com/SarthakPatel91/Leetcode/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/SarthakPatel91/Leetcode/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/SarthakPatel91/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/SarthakPatel91/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/SarthakPatel91/Leetcode/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/SarthakPatel91/Leetcode/tree/master/1667-fix-names-in-a-table) |
