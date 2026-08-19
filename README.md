@@ -502,4 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1462-course-schedule-iv](https://github.com/SarthakPatel91/Leetcode/tree/master/1462-course-schedule-iv) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/SarthakPatel91/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
