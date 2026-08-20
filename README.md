@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/SarthakPatel91/Leetcode/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/SarthakPatel91/Leetcode/tree/master/0183-customers-who-never-order) |
+| [0511-game-play-analysis-i](https://github.com/SarthakPatel91/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/SarthakPatel91/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/SarthakPatel91/Leetcode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/SarthakPatel91/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
