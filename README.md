@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/SarthakPatel91/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SarthakPatel91/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SarthakPatel91/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/SarthakPatel91/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/SarthakPatel91/Leetcode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/SarthakPatel91/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/SarthakPatel91/Leetcode/tree/master/0164-maximum-gap) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SarthakPatel91/Leetcode/tree/master/0079-word-search) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SarthakPatel91/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/SarthakPatel91/Leetcode/tree/master/0130-surrounded-regions) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SarthakPatel91/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/SarthakPatel91/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/SarthakPatel91/Leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/SarthakPatel91/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/SarthakPatel91/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SarthakPatel91/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/SarthakPatel91/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SarthakPatel91/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/SarthakPatel91/Leetcode/tree/master/0542-01-matrix) |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/SarthakPatel91/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/SarthakPatel91/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/SarthakPatel91/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SarthakPatel91/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Memoization
