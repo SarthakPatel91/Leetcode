@@ -1,23 +1,20 @@
 class Solution {
 public:
     string kthDistinct(vector<string>& arr, int k) {
-        int n = arr.size();
         unordered_map<string, int> mp;
-        int count = 0;
 
-        for (int i = 0; i < n; i++) {
-            mp[arr[i]]++;
+        // Count frequency
+        for (string& s : arr) {
+            mp[s]++;
         }
 
-        for (int i = 0; i < n; i++) {
-            string s = arr[i];
-            for (auto& p : mp) {
-                if (p.first == s) {
-                    if (p.second == 1)
-                        count++;
-                    if (count == k)
-                        return p.first;
-                }
+        // Find kth distinct string in original order
+        for (string& s : arr) {
+            if (mp[s] == 1) {
+                k--;
+
+                if (k == 0)
+                    return s;
             }
         }
 
