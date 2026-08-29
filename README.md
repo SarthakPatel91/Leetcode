@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SarthakPatel91/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/SarthakPatel91/Leetcode/tree/master/3731-find-missing-elements) |
 | [3840-house-robber-v](https://github.com/SarthakPatel91/Leetcode/tree/master/3840-house-robber-v) |
+| [3861-minimum-capacity-box](https://github.com/SarthakPatel91/Leetcode/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/SarthakPatel91/Leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Hash Table
 |  |
