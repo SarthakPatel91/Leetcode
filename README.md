@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/SarthakPatel91/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SarthakPatel91/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SarthakPatel91/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SarthakPatel91/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2560-house-robber-iv](https://github.com/SarthakPatel91/Leetcode/tree/master/2560-house-robber-iv) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/SarthakPatel91/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/SarthakPatel91/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1710-maximum-units-on-a-truck](https://github.com/SarthakPatel91/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SarthakPatel91/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2560-house-robber-iv](https://github.com/SarthakPatel91/Leetcode/tree/master/2560-house-robber-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SarthakPatel91/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
