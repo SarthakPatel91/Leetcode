@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3840-house-robber-v](https://github.com/SarthakPatel91/Leetcode/tree/master/3840-house-robber-v) |
 | [3861-minimum-capacity-box](https://github.com/SarthakPatel91/Leetcode/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/SarthakPatel91/Leetcode/tree/master/3862-find-the-smallest-balanced-index) |
+| [3866-first-unique-even-element](https://github.com/SarthakPatel91/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SarthakPatel91/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/SarthakPatel91/Leetcode/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/SarthakPatel91/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SarthakPatel91/Leetcode/tree/master/0169-majority-element) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3866-first-unique-even-element](https://github.com/SarthakPatel91/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
 | ------- |
