@@ -1,4 +1,3 @@
-
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -9,53 +8,46 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
         ListNode temp = head;
 
-        int size = 0;
-        ArrayList<Integer> nums = new ArrayList<>();
+        if (head == null || head.next == null)
+            return new int[] { -1, -1 };
 
-        while (temp != null) {
-            size++;
-            nums.add(temp.val);
-            temp = temp.next;
-        }
+        ListNode prev = head;
+        ListNode curr = head.next;
+        ListNode next = curr.next;
 
-        if (size == 2)
-            return new int[]{-1, -1};
+        int first = -1;
+        int last = -1;
+        int index = 1;
+        int mindist = Integer.MAX_VALUE;
 
-        int n = nums.size();
-        ArrayList<Integer> res = new ArrayList<>();
+        while (next != null) {
+            if ((prev.val < curr.val && curr.val > next.val)
+                    || (prev.val > curr.val && curr.val < next.val)) {
+                if (first == -1)
+                    first = index;
 
-        for (int i = 1; i < n - 1; i++) {
+                else
+                    mindist = Math.min(mindist, index - last);
 
-            // local maxima
-            if ((nums.get(i - 1) < nums.get(i)) &&
-                (nums.get(i) > nums.get(i + 1))) {
-                res.add(i);
+                last = index;
             }
+            prev = curr;
+            curr = next;
+            next = next.next;
 
-            // local minima
-            if ((nums.get(i - 1) > nums.get(i)) &&
-                (nums.get(i) < nums.get(i + 1))) {
-                res.add(i);
-            }
+            index++;
         }
 
-        int m = res.size();
+        if (first == last)
+            return new int[] { -1, -1 };
 
-        if (m < 2)
-            return new int[]{-1, -1};
+        int maxdist = last - first;
 
-        int maxdis = res.get(m - 1) - res.get(0);
-        int mindis = Integer.MAX_VALUE;
-
-        for (int i = 0; i < m - 1; i++) {
-            mindis = Math.min(mindis, res.get(i + 1) - res.get(i));
-        }
-
-        return new int[]{mindis, maxdis};
+        return new int[] { mindist, maxdist };
     }
 }
-
