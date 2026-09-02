@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2315-count-asterisks](https://github.com/SarthakPatel91/Leetcode/tree/master/2315-count-asterisks) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SarthakPatel91/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/SarthakPatel91/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SarthakPatel91/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SarthakPatel91/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/SarthakPatel91/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SarthakPatel91/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/SarthakPatel91/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SarthakPatel91/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SarthakPatel91/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SarthakPatel91/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/SarthakPatel91/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
 | ------- |
