@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SarthakPatel91/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/SarthakPatel91/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SarthakPatel91/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2942-find-words-containing-character](https://github.com/SarthakPatel91/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SarthakPatel91/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SarthakPatel91/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SarthakPatel91/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SarthakPatel91/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2942-find-words-containing-character](https://github.com/SarthakPatel91/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SarthakPatel91/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
