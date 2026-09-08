@@ -6,8 +6,7 @@ from employee,department
 where 
 employee.departmentid=department.id
 and
-employee.salary=(
-    select max(employee.salary)
-    from employee
+salary=(
+    select max(salary) from employee
     where employee.departmentid=department.id
 );
