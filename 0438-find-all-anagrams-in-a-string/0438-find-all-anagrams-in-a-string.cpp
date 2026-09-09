@@ -6,18 +6,20 @@ public:
         if (m > n)
             return {};
 
-        map<char, int> mp1;
-        for (char ch : p)
-            mp1[ch]++;
+        vector<int> freqp(26, 0);
+        for (char ch : p) {
+            freqp[ch - 'a']++;
+        }
 
         vector<int> ans;
 
         for (int i = 0; i <= s.size() - m; i++) {
-            map<char, int> mp2;
-            for (int j = i; j < i + m && j < n; j++) {
-                mp2[s[j]]++;
-            }
-            if (mp1 == mp2)
+            string temp = s.substr(i, m);
+            vector<int> freqtemp(26, 0);
+            for (char ch : temp)
+                freqtemp[ch - 'a']++;
+
+            if (freqp == freqtemp)
                 ans.push_back(i);
         }
 
