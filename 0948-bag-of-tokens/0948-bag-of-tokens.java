@@ -14,13 +14,16 @@ class Solution {
                 power -= tokens[i];
                 points++;
                 i++;
-                ans = Math.max(ans, points);
+                // ans = Math.max(ans, points);
             } else if (points >= 1) {
                 points--;
                 power += tokens[j];
                 j--;
             } else
                 break;
+
+                
+                ans = Math.max(ans, points);
         }
 
         return ans;
