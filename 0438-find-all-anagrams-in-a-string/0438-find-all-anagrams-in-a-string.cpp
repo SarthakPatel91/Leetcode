@@ -7,20 +7,21 @@ public:
             return {};
 
         vector<int> freqp(26, 0);
+        vector<int> freq(26, 0);
         for (char ch : p) {
             freqp[ch - 'a']++;
         }
 
         vector<int> ans;
 
-        for (int i = 0; i <= s.size() - m; i++) {
-            string temp = s.substr(i, m);
-            vector<int> freqtemp(26, 0);
-            for (char ch : temp)
-                freqtemp[ch - 'a']++;
+        for (int i = 0; i < s.size(); i++) {
+            freq[s[i] - 'a']++;
 
-            if (freqp == freqtemp)
-                ans.push_back(i);
+            if (i >= m)
+                freq[s[i - m] - 'a']--;
+
+            if (i >= m - 1 && freq == freqp)
+                ans.push_back(i - m + 1);
         }
 
         return ans;
