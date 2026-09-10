@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SarthakPatel91/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/SarthakPatel91/Leetcode/tree/master/1462-course-schedule-iv) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SarthakPatel91/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/SarthakPatel91/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SarthakPatel91/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Linked List
 |  |
