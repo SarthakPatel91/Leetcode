@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/SarthakPatel91/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1089-duplicate-zeros](https://github.com/SarthakPatel91/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1162-as-far-from-land-as-possible](https://github.com/SarthakPatel91/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
+| [1219-path-with-maximum-gold](https://github.com/SarthakPatel91/Leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/SarthakPatel91/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/SarthakPatel91/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SarthakPatel91/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/SarthakPatel91/Leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/SarthakPatel91/Leetcode/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/SarthakPatel91/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
+| [1219-path-with-maximum-gold](https://github.com/SarthakPatel91/Leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/SarthakPatel91/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/SarthakPatel91/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Math
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/SarthakPatel91/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0212-word-search-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SarthakPatel91/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1219-path-with-maximum-gold](https://github.com/SarthakPatel91/Leetcode/tree/master/1219-path-with-maximum-gold) |
 ## Memoization
 |  |
 | ------- |
