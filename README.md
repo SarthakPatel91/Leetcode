@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/SarthakPatel91/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/SarthakPatel91/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/SarthakPatel91/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/SarthakPatel91/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SarthakPatel91/Leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/SarthakPatel91/Leetcode/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/SarthakPatel91/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SarthakPatel91/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SarthakPatel91/Leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SarthakPatel91/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SarthakPatel91/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/SarthakPatel91/Leetcode/tree/master/3765-complete-prime-number) |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SarthakPatel91/Leetcode/tree/master/0204-count-primes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SarthakPatel91/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SarthakPatel91/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -765,4 +769,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SarthakPatel91/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SarthakPatel91/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SarthakPatel91/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SarthakPatel91/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
