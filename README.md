@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SarthakPatel91/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1446-consecutive-characters](https://github.com/SarthakPatel91/Leetcode/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SarthakPatel91/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SarthakPatel91/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SarthakPatel91/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/SarthakPatel91/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SarthakPatel91/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/SarthakPatel91/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SarthakPatel91/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SarthakPatel91/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SarthakPatel91/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SarthakPatel91/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SarthakPatel91/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SarthakPatel91/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -822,4 +824,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/SarthakPatel91/Leetcode/tree/master/0480-sliding-window-median) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SarthakPatel91/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
