@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SarthakPatel91/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SarthakPatel91/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/SarthakPatel91/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SarthakPatel91/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SarthakPatel91/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/SarthakPatel91/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/SarthakPatel91/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/SarthakPatel91/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
