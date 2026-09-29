@@ -1,7 +1,7 @@
 class Solution {
 public:
     int m,n;
-    int dp[101][101][201];
+    int dp[101][101][101];
 
     bool dfs(int i,int j,vector<vector<char>>& grid,int bal) {
         if(i<0 || i>=m || j<0 || j>=n)
