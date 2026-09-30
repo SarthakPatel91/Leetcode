@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/SarthakPatel91/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1550-three-consecutive-odds](https://github.com/SarthakPatel91/Leetcode/tree/master/1550-three-consecutive-odds) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/SarthakPatel91/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SarthakPatel91/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/SarthakPatel91/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SarthakPatel91/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/SarthakPatel91/Leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/SarthakPatel91/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/SarthakPatel91/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/SarthakPatel91/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SarthakPatel91/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
 |  |
