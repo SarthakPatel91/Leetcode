@@ -1,7 +1,7 @@
 class Solution {
 public:
     int m, n;
-    int dp[501][501];
+    vector<vector<int>>dp;
 
     int solve(int i, int j, string& word1, string& word2) {
         if (i == m )
@@ -24,8 +24,8 @@ public:
         m = word1.size();
         n = word2.size();
 
-        memset(dp,-1,sizeof(dp));
-        
+        dp.assign(m,vector<int>(n,-1));
+
         return solve(0,0,word1,word2);
     }
 };
