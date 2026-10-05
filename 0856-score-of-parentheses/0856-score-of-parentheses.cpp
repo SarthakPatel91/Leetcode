@@ -34,7 +34,7 @@ public:
                 bal--;
 
                 if (s[i - 1] == '(')
-                    score += pow(2, bal);
+                    score += (1<<bal);//2^bal
             }
         }
 
