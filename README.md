@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/SarthakPatel91/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SarthakPatel91/Leetcode/tree/master/0200-number-of-islands) |
+| [0310-minimum-height-trees](https://github.com/SarthakPatel91/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SarthakPatel91/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/SarthakPatel91/Leetcode/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SarthakPatel91/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/SarthakPatel91/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SarthakPatel91/Leetcode/tree/master/0200-number-of-islands) |
+| [0310-minimum-height-trees](https://github.com/SarthakPatel91/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SarthakPatel91/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SarthakPatel91/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/SarthakPatel91/Leetcode/tree/master/0463-island-perimeter) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/SarthakPatel91/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SarthakPatel91/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SarthakPatel91/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/SarthakPatel91/Leetcode/tree/master/0841-keys-and-rooms) |
@@ -779,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/SarthakPatel91/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SarthakPatel91/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1462-course-schedule-iv](https://github.com/SarthakPatel91/Leetcode/tree/master/1462-course-schedule-iv) |
 ## Database
