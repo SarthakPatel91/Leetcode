@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/SarthakPatel91/Leetcode/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SarthakPatel91/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SarthakPatel91/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/SarthakPatel91/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/SarthakPatel91/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0968-binary-tree-cameras](https://github.com/SarthakPatel91/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/SarthakPatel91/Leetcode/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SarthakPatel91/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SarthakPatel91/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/SarthakPatel91/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/SarthakPatel91/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0993-cousins-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SarthakPatel91/Leetcode/tree/master/0994-rotting-oranges) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/SarthakPatel91/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SarthakPatel91/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SarthakPatel91/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/SarthakPatel91/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/SarthakPatel91/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/SarthakPatel91/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SarthakPatel91/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -729,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/SarthakPatel91/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0212-word-search-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SarthakPatel91/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0797-all-paths-from-source-to-target](https://github.com/SarthakPatel91/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1219-path-with-maximum-gold](https://github.com/SarthakPatel91/Leetcode/tree/master/1219-path-with-maximum-gold) |
 ## Memoization
 |  |
@@ -843,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SarthakPatel91/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0797-all-paths-from-source-to-target](https://github.com/SarthakPatel91/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Trie
 |  |
 | ------- |
