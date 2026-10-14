@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/SarthakPatel91/Leetcode/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SarthakPatel91/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0834-sum-of-distances-in-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/SarthakPatel91/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/1302-deepest-leaves-sum) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SarthakPatel91/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SarthakPatel91/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/SarthakPatel91/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0834-sum-of-distances-in-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/SarthakPatel91/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0968-binary-tree-cameras](https://github.com/SarthakPatel91/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SarthakPatel91/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SarthakPatel91/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/SarthakPatel91/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0834-sum-of-distances-in-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/SarthakPatel91/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/SarthakPatel91/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SarthakPatel91/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SarthakPatel91/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/SarthakPatel91/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SarthakPatel91/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0834-sum-of-distances-in-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/SarthakPatel91/Leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0968-binary-tree-cameras](https://github.com/SarthakPatel91/Leetcode/tree/master/0968-binary-tree-cameras) |
@@ -796,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/SarthakPatel91/Leetcode/tree/master/0337-house-robber-iii) |
+| [0834-sum-of-distances-in-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/SarthakPatel91/Leetcode/tree/master/0968-binary-tree-cameras) |
 ## Shortest Path
 |  |
