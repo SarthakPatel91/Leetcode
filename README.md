@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SarthakPatel91/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/SarthakPatel91/Leetcode/tree/master/1462-course-schedule-iv) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SarthakPatel91/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SarthakPatel91/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/SarthakPatel91/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SarthakPatel91/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/SarthakPatel91/Leetcode/tree/master/1462-course-schedule-iv) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SarthakPatel91/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/SarthakPatel91/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/SarthakPatel91/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/SarthakPatel91/Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/SarthakPatel91/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/SarthakPatel91/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SarthakPatel91/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SarthakPatel91/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2421-number-of-good-paths](https://github.com/SarthakPatel91/Leetcode/tree/master/2421-number-of-good-paths) |
 | [2685-count-the-number-of-complete-components](https://github.com/SarthakPatel91/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/SarthakPatel91/Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -823,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SarthakPatel91/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1462-course-schedule-iv](https://github.com/SarthakPatel91/Leetcode/tree/master/1462-course-schedule-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SarthakPatel91/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SarthakPatel91/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Database
 |  |
 | ------- |
@@ -861,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SarthakPatel91/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/SarthakPatel91/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SarthakPatel91/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Trie
 |  |
 | ------- |
