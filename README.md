@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/SarthakPatel91/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SarthakPatel91/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/SarthakPatel91/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SarthakPatel91/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SarthakPatel91/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/SarthakPatel91/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SarthakPatel91/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/SarthakPatel91/Leetcode/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SarthakPatel91/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SarthakPatel91/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SarthakPatel91/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SarthakPatel91/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/SarthakPatel91/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SarthakPatel91/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
