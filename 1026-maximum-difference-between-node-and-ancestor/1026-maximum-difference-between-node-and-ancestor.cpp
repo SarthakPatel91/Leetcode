@@ -12,37 +12,21 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root, vector<int>& ds, vector<vector<int>>& ans) {
-        if (root == nullptr)
+    int res = INT_MIN;
+    void dfs(TreeNode* root, int path_min, int path_max) {
+        if (root == NULL) {
+            res = max(res, path_max - path_min);
             return;
-
-        ds.push_back(root->val);
-
-        if (root->left == nullptr && root->right == nullptr) {
-            ans.push_back(ds);
         }
 
-        dfs(root->left, ds, ans);
-        dfs(root->right, ds, ans);
+        path_max = max(path_max, root->val);
+        path_min = min(path_min, root->val);
 
-        ds.pop_back();
+        dfs(root->left, path_min, path_max);
+        dfs(root->right, path_min, path_max);
     }
     int maxAncestorDiff(TreeNode* root) {
-        vector<vector<int>> ans;
-        vector<int> ds;
-
-        dfs(root, ds, ans);
-
-        int res = INT_MIN;
-
-        for (int i = 0; i < ans.size(); i++) {
-            vector<int> nums = ans[i];
-
-            int mn = *min_element(nums.begin(), nums.end());
-            int mx = *max_element(nums.begin(), nums.end());
-
-            res = max(res, abs(mx - mn));
-        }
+        dfs(root, INT_MAX, INT_MIN);
 
         return res;
     }
