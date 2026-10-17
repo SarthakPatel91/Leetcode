@@ -12,25 +12,18 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root, vector<int>& val) {
+    bool dfs(TreeNode* root, int value) {
         if (root == nullptr)
-            return;
+            return true;
 
-        val.push_back(root->val);
+        if (root->val != value)
+            return false;
 
-        dfs(root->left, val);
-        dfs(root->right, val);
+        return dfs(root->left, value) && dfs(root->right, value);
     }
     bool isUnivalTree(TreeNode* root) {
-        vector<int>value;
+        int value = root->val;
 
-        dfs(root, value);
-
-        for (int i = 0; i < value.size() - 1; i++) {
-            if (value[i] != value[i + 1])
-                return false;
-        }
-
-        return true;
+        return dfs(root, value);
     }
 };
