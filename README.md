@@ -748,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/SarthakPatel91/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/SarthakPatel91/Leetcode/tree/master/0190-reverse-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SarthakPatel91/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SarthakPatel91/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1386-cinema-seat-allocation](https://github.com/SarthakPatel91/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SarthakPatel91/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SarthakPatel91/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/SarthakPatel91/Leetcode/tree/master/0190-reverse-bits) |
 ## Backtracking
 |  |
 | ------- |
