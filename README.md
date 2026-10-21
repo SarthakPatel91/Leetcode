@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/SarthakPatel91/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/SarthakPatel91/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/SarthakPatel91/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2523-closest-prime-numbers-in-range](https://github.com/SarthakPatel91/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/SarthakPatel91/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/SarthakPatel91/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/SarthakPatel91/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SarthakPatel91/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/SarthakPatel91/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2523-closest-prime-numbers-in-range](https://github.com/SarthakPatel91/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SarthakPatel91/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/SarthakPatel91/Leetcode/tree/master/3765-complete-prime-number) |
 ## Dynamic Programming
@@ -957,16 +959,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/SarthakPatel91/Leetcode/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SarthakPatel91/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/SarthakPatel91/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2523-closest-prime-numbers-in-range](https://github.com/SarthakPatel91/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SarthakPatel91/Leetcode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/SarthakPatel91/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2523-closest-prime-numbers-in-range](https://github.com/SarthakPatel91/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SarthakPatel91/Leetcode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/SarthakPatel91/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2523-closest-prime-numbers-in-range](https://github.com/SarthakPatel91/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Factorization
 |  |
 | ------- |
