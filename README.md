@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/SarthakPatel91/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SarthakPatel91/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/SarthakPatel91/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SarthakPatel91/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/SarthakPatel91/Leetcode/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/SarthakPatel91/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SarthakPatel91/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/SarthakPatel91/Leetcode/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/SarthakPatel91/Leetcode/tree/master/0509-fibonacci-number) |
