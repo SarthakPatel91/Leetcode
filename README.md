@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SarthakPatel91/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/SarthakPatel91/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SarthakPatel91/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0414-third-maximum-number](https://github.com/SarthakPatel91/Leetcode/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SarthakPatel91/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/SarthakPatel91/Leetcode/tree/master/0463-island-perimeter) |
 | [0480-sliding-window-median](https://github.com/SarthakPatel91/Leetcode/tree/master/0480-sliding-window-median) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SarthakPatel91/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SarthakPatel91/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SarthakPatel91/Leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/SarthakPatel91/Leetcode/tree/master/0414-third-maximum-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SarthakPatel91/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/SarthakPatel91/Leetcode/tree/master/0658-find-k-closest-elements) |
