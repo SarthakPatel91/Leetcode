@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/SarthakPatel91/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/SarthakPatel91/Leetcode/tree/master/0463-island-perimeter) |
 | [0480-sliding-window-median](https://github.com/SarthakPatel91/Leetcode/tree/master/0480-sliding-window-median) |
+| [0485-max-consecutive-ones](https://github.com/SarthakPatel91/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SarthakPatel91/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
