@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/SarthakPatel91/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/SarthakPatel91/Leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SarthakPatel91/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/SarthakPatel91/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2421-number-of-good-paths](https://github.com/SarthakPatel91/Leetcode/tree/master/2421-number-of-good-paths) |
 | [2460-apply-operations-to-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SarthakPatel91/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/SarthakPatel91/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SarthakPatel91/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/SarthakPatel91/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SarthakPatel91/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2421-number-of-good-paths](https://github.com/SarthakPatel91/Leetcode/tree/master/2421-number-of-good-paths) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SarthakPatel91/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SarthakPatel91/Leetcode/tree/master/0169-majority-element) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/SarthakPatel91/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SarthakPatel91/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3866-first-unique-even-element](https://github.com/SarthakPatel91/Leetcode/tree/master/3866-first-unique-even-element) |
