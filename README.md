@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SarthakPatel91/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/SarthakPatel91/Leetcode/tree/master/1514-path-with-maximum-probability) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SarthakPatel91/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3813-vowel-consonant-score](https://github.com/SarthakPatel91/Leetcode/tree/master/3813-vowel-consonant-score) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SarthakPatel91/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Hash Function
 |  |
 | ------- |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/SarthakPatel91/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SarthakPatel91/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SarthakPatel91/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Union-Find
 |  |
 | ------- |
@@ -910,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SarthakPatel91/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/SarthakPatel91/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SarthakPatel91/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SarthakPatel91/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
