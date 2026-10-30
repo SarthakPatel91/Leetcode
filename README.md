@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SarthakPatel91/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SarthakPatel91/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SarthakPatel91/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SarthakPatel91/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SarthakPatel91/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/SarthakPatel91/Leetcode/tree/master/1514-path-with-maximum-probability) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SarthakPatel91/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-number-of-good-paths](https://github.com/SarthakPatel91/Leetcode/tree/master/2421-number-of-good-paths) |
 | [2685-count-the-number-of-complete-components](https://github.com/SarthakPatel91/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/SarthakPatel91/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SarthakPatel91/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SarthakPatel91/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SarthakPatel91/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/SarthakPatel91/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SarthakPatel91/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SarthakPatel91/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SarthakPatel91/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
@@ -916,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SarthakPatel91/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/SarthakPatel91/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SarthakPatel91/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SarthakPatel91/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dijkstra's Algorithm
 |  |
