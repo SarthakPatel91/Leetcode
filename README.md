@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SarthakPatel91/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SarthakPatel91/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SarthakPatel91/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3693-climbing-stairs-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SarthakPatel91/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SarthakPatel91/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/SarthakPatel91/Leetcode/tree/master/3731-find-missing-elements) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SarthakPatel91/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2560-house-robber-iv](https://github.com/SarthakPatel91/Leetcode/tree/master/2560-house-robber-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SarthakPatel91/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3693-climbing-stairs-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3840-house-robber-v](https://github.com/SarthakPatel91/Leetcode/tree/master/3840-house-robber-v) |
 ## Greedy
 |  |
