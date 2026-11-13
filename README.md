@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SarthakPatel91/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/SarthakPatel91/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/SarthakPatel91/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SarthakPatel91/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/SarthakPatel91/Leetcode/tree/master/0032-longest-valid-parentheses) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SarthakPatel91/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/SarthakPatel91/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/SarthakPatel91/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/SarthakPatel91/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/SarthakPatel91/Leetcode/tree/master/0053-maximum-subarray) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/SarthakPatel91/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SarthakPatel91/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/SarthakPatel91/Leetcode/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0143-reorder-list) |
