@@ -644,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/SarthakPatel91/Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/SarthakPatel91/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SarthakPatel91/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SarthakPatel91/Leetcode/tree/master/0189-rotate-array) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/SarthakPatel91/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SarthakPatel91/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/SarthakPatel91/Leetcode/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/SarthakPatel91/Leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/SarthakPatel91/Leetcode/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/SarthakPatel91/Leetcode/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SarthakPatel91/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
