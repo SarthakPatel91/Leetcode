@@ -1,7 +1,7 @@
 class Solution {
 public:
     string digitSum(string s, int k) {
-        while ((int)s.size() > k) {
+        while (s.size() > k) {
             string t;
             for (int i = 0; i < (int)s.size(); i += k) {
                 int sum = 0;
