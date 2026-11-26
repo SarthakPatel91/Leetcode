@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/SarthakPatel91/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/SarthakPatel91/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SarthakPatel91/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/SarthakPatel91/Leetcode/tree/master/3360-stone-removal-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SarthakPatel91/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/SarthakPatel91/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/SarthakPatel91/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SarthakPatel91/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SarthakPatel91/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/SarthakPatel91/Leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/SarthakPatel91/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3813-vowel-consonant-score](https://github.com/SarthakPatel91/Leetcode/tree/master/3813-vowel-consonant-score) |
 ## Stack
